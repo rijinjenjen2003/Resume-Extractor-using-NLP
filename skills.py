@@ -1,0 +1,23 @@
+skills = [
+    "Python",
+    "SQL",
+    "Machine Learning",
+    "Deep Learning",
+    "TensorFlow",
+    "Keras",
+    "OpenCV",
+    "Pandas",
+    "NumPy",
+    "Scikit-learn",
+    "Streamlit",
+    "FastAPI",
+    "LangChain",
+    "FAISS",
+    "ChromaDB",
+    "Docker",
+    "AWS",
+    "Power BI",
+    "Tableau",
+    "Git",
+    "GitHub"
+]
